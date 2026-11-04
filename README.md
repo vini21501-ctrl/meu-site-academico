@@ -34,7 +34,7 @@ Acesse o site publicado pelo GitHub Pages:
 
 ### Capturas de tela
 
-Adicione nesta seção imagens mostrando as principais páginas e funcionalidades do site.
+![Página inicial](screenshots/home.png)
 
 ## 📂 Estrutura do projeto
 
