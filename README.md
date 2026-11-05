@@ -34,7 +34,7 @@ Acesse o site publicado pelo GitHub Pages:
 
 ### Capturas de tela
 
-![Página inicial]screenshots
+![Página inicial](https://github.com/vini21501-ctrl/meu-site-academico/tree/main/screenshots)
 
 ## 📂 Estrutura do projeto
 
