@@ -32,9 +32,8 @@ Acesse o site publicado pelo GitHub Pages:
 
 [Visualizar meu site]https://github.com/vini21501-ctrl/meu-site-academico/blob/main/screenshots/Captura%20de%20Tela%20(1).png
 
-### Capturas de tela
-
-(screenshots/Captura de Tela (1).png)
+### Página inicial
+![Página inicial do site](screenshots/home.png)
 
 ## 📂 Estrutura do projeto
 
