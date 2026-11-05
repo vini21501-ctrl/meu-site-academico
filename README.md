@@ -34,7 +34,7 @@ Acesse o site publicado pelo GitHub Pages:
 
 ### Capturas de tela
 
-![Página inicial](screenshots/home.png)
+![Página inicial](screenshots/Captura de Tela (1).png)
 
 ## 📂 Estrutura do projeto
 
